@@ -4,6 +4,6 @@ RU: Игра сделана для аудитории детей на Unity дл
 
 Link to apk file: drive.google.com/file/d/1NYyv-xrWiRj6ugHyE6t8WVJPLyzuAY78/view?usp=sharing
 
-itch.io: sigma-g.itch.io/child-game
+itch.io: https://sigma-g.itch.io/child-game
 
 youtube: https://www.youtube.com/watch?v=_IMw8wnqZHI&ab_channel=GeorgeGameDev
